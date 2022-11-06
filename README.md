@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **azure, phyton** 
 
-- 💬 Me pergunte sobre **React, Javascript, Excel,**
+- 💬 Me pergunte sobre **React, Javascript, Typescript, HTML, Java e Excel**
 
 - 📫 Você me acha através do e-mail **lucianoshtt@gmail.com**
 
