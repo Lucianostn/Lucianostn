@@ -9,7 +9,7 @@
 
 <h3 align="left">Você me encontra:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucianossantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucianossantos/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucianossantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucianossantos/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/lucianoqzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="30" width="40" /></a>
 <a href="https://instagram.com/lucianonst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucianonst" height="30" width="40" /></a>
 
