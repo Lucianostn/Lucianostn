@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Me chamo luciano</h1>
 <h3 align="center">Sou apaixonado por Desenvolvimento Web e Análise de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **azure, phyton** 
+- 🌱 Atualmente estou aprendendo **azure, python** 
 
 - 💬 Me pergunte sobre **React, Javascript, Typescript, HTML, Java e Excel**
 
